@@ -26,7 +26,6 @@ use_git_config(
 # .gitignore after use_git() and add whatever else you wanna add. This 
 # will not upload those stuff to github.
 
-################################################################################
 
 
 
